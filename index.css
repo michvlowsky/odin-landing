@@ -146,3 +146,35 @@ a {
     border: 4px solid #3882f6;
     border-radius: 20px;
 }
+
+.section4 {
+    background-color: #e5e7eb;
+}
+
+.quote {
+    display: flex;
+    max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 70px 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-text {
+    align-self: center;
+    font-size: 28px;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.quote-author {
+    flex-basis: 300px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-end;
+}
+
+
+
+
