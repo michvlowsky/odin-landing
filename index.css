@@ -175,6 +175,46 @@ a {
     align-self: flex-end;
 }
 
+.section5 {
+    display: flex;
+    width: 100vw;
+    height: 300px;
+}
+
+.call {
+    display: flex;
+    margin: auto;
+    gap: 200px;
+    background-color: #3882f6;
+    border-radius: 5px;
+    padding: 20px 80px;
+}
+
+.contact-head {
+    color: #F9FAF8;
+    font-size: 24px;
+    margin-bottom: 0px;
+}
+
+.contact-text {
+    margin-top: 5px;
+    color: #F9FAF8;
+}
+
+.call-button {
+    display: flex;
+    align-self: center;
+}
+
+.bttn {
+    width: 150px;
+    height: 40px;
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 10px 35px;
+    border-radius: 10px;
+    border: 2px solid #F9FAF8;
+}
 
 
 
