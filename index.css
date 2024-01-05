@@ -97,6 +97,7 @@ a {
 .section3 {
     padding-bottom: 100px;
     padding-top: 50px;
+    margin: auto;
 }
 
 .information {
@@ -110,7 +111,7 @@ a {
     display: flex;
     flex-direction: row;
     flex-shrink: 0;
-    justify-content: space-around;
+    gap: 40px;
     text-align: center;
 }
 
@@ -120,23 +121,23 @@ a {
 }
 
 .graphics {
-    width: 240px;
-    height: 180px;
+    width: 200px;
+    height: 140px;
 }
 
 .video {
-    width: 240px;
-    height: 180px;
+    width: 200px;
+    height: 140px;
 }
 
 .coding {
-    width: 240px;
-    height: 180px;
+    width: 200px;
+    height: 140px;
 }
 
 .data {
-    width: 240px;
-    height: 180px;
+    width: 200px;
+    height: 140px;
 }
 
 .service1 img,
