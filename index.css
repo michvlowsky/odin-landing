@@ -6,6 +6,11 @@ body {
     padding: 0;
 }
 
+a {
+    text-decoration: none;
+    color: #e5e7eb
+}
+
 .header {
     max-width: 70%;
     margin: auto;
@@ -34,6 +39,8 @@ body {
    width: 85%;
    height: 85%;
    flex-shrink: 0;
+   border: 2px solid #f9faf8;
+   border-radius: 10px;
 }
 
 .section1 {
